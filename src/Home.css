@@ -1,0 +1,16 @@
+.container text-center{
+   font-size: 30px;
+   color: brown;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.box {
+  text-align: center;
+  padding: 40px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  background-color: antiquewhite;
+}
